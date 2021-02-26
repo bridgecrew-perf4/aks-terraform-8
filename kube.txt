@@ -1,0 +1,5 @@
+ "appId": "df762a14-531a-4d15-91f0-3167a587aa40",
+  "displayName": "aks-getting-started-sp",
+  "name": "http://aks-getting-started-sp",
+  "password": "04d5F_6JYO.u7iC-t5z49Lk3iB926RFJS~",
+  "tenant": "eb29cc7f-ce42-45d8-b587-7041a2256cb9"
